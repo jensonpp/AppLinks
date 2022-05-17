@@ -1,0 +1,14 @@
+[
+      {
+      "relation": [
+      "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+      "namespace": "android",
+      "package_name": "com.heb.centralmarket",
+      "sha256_cert_fingerprints": [
+      " 91:dd:7b:b0:65:30:17:23:ed:c4:b0:6d:44:cb:c7:9f:06:09:ac:0d"
+      ]
+      }
+      }
+      ]
