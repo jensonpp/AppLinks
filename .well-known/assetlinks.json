@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.heb.centralmarket.dev",
+    "package_name": "com.centralmarket.joevs.dev",
     "sha256_cert_fingerprints":
-    ["5E:2F:0F:69:FF:05:BD:5B:97:68:0B:24:7D:81:83:25:46:38:B2:0E:16:28:43:C7:4D:7A:AB:4D:0E:EA:99:93"]
+    ["1E:9B:8A:83:C7:25:50:7C:DC:73:C3:46:DB:BE:43:76:AA:3E:5D:74:B5:36:65:46:6A:F9:43:BD:2D:9C:82:76"]
   }
 }]
